@@ -2200,8 +2200,8 @@
 104.25.158.178 finland10199.discord.media
 
 # YouTube & CDN / Сервисы Google (основные IP: 45.155.204.190 и 37.230.192.51)
-45.155.204.190 youtube.com, ://youtube.com, ://youtube.com, youtu.be, *.youtube.com, *.youtu.be
-37.230.192.51 youtube.com, ://youtube.com, ://youtube.com, youtu.be, *.youtube.com, *.youtu.be
+45.155.204.190 youtube.com, ://youtube.com, youtu.be, *.youtube.com, *.youtu.be
+37.230.192.51 youtube.com, ://youtube.com, youtu.be, *.youtube.com, *.youtu.be
 45.155.204.190 googlevideo.com, *.googlevideo.com
 37.230.192.51 googlevideo.com, *.googlevideo.com
 ### dns.geohide.ru: end hosts file
