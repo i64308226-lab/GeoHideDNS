@@ -2200,18 +2200,18 @@
 104.25.158.178 finland10199.discord.media
 
 # YouTube & CDN / Сервисы Google
-162.252.172.57 youtube.com
-162.252.172.57 youtube.com
-162.252.172.57 googlevideo.com
-162.252.172.57 googlevideo.com
-162.252.172.57 *.googlevideo.com
-162.252.172.57 *.googlevideo.com
-162.252.172.57 ://youtube.com
-162.252.172.57 ://youtube.com
-162.252.172.57 youtu.be
-162.252.172.57 youtu.be
-162.252.172.57 *.youtube.com
-162.252.172.57 *.youtube.com
-162.252.172.57 *.youtu.be
-162.252.172.57 *.youtu.be
+74.125.205.0 youtube.com
+74.125.205.0 youtube.com
+74.125.205.0 googlevideo.com
+74.125.205.0 googlevideo.com
+74.125.205.0 *.googlevideo.com
+74.125.205.0 *.googlevideo.com
+74.125.205.0 ://youtube.com
+74.125.205.0 ://youtube.com
+74.125.205.0 youtu.be
+74.125.205.0 youtu.be
+74.125.205.0 *.youtube.com
+74.125.205.0 *.youtube.com
+74.125.205.0 *.youtu.be
+74.125.205.0 *.youtu.be
 ### dns.geohide.ru: end hosts file
